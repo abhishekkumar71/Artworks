@@ -81,6 +81,7 @@ export default function ArtworkTable() {
         />
         <Column field="place_of_origin" header="Origin" />
         <Column field="artist_display" header="Artist" />
+          <Column field="inscriptions" header="Inscriptions" />
         <Column field="date_start" header="Start Date" />
         <Column field="date_end" header="End Date" />
       </DataTable>
